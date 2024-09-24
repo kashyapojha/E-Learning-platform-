@@ -1,0 +1,16 @@
+body{
+    background-image:url("/assests/background.webp");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:600px;
+}
+.login{
+    text-align: center;
+    margin-top:200px;
+}
+label{
+    color: aliceblue;
+}
+h2{
+    color: coral;
+}
